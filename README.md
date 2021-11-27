@@ -1,5 +1,5 @@
 # meditations-haskell
-haskell program that outputs a randomly selected line from Marcus Aurelis's "Meditations" 
+haskell program that outputs a randomly selected line from the Meditations of Marcus Aurelius. 
 
 ## Dependencies 
 I used the [haskell platform](https://www.haskell.org/platform/) which includes many packages and a compiler. If you know haskell, you probably already have this.
