@@ -25,6 +25,4 @@ main = do
  currentTime <- getCurrentTime
  let index = ((time currentTime)*100) `mod` size
 
- print(chapter)
- print(intro)
  print(sortedContent !! index)
