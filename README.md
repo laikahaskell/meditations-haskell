@@ -3,8 +3,7 @@ A haskell program that outputs a randomly selected line from the Meditations of 
 The line is either randomly selected from the entire book or from the book (chapter) of your choice using a command line argument.
 
 ## Dependencies 
-I used the [haskell platform](https://www.haskell.org/platform/) which includes many packages and a compiler. 
-If you know haskell, you probably already have this.
+Using [GHCup](https://www.haskell.org/ghcup/) to install Haskell, the GHC compiler, cabal and stack will give you all the modules and packages needed in this project. The modules used here are `base` and `time`.
 
 ## Usage
 Clone the repository, compile in `ghc`, and run the object file./
